@@ -2,9 +2,15 @@
   "$GMSprite":"",
   "%Name":"Sprite1",
   "bboxMode":0,
+<<<<<<< Updated upstream
   "bbox_bottom":63,
   "bbox_left":0,
   "bbox_right":63,
+=======
+  "bbox_bottom":0,
+  "bbox_left":0,
+  "bbox_right":0,
+>>>>>>> Stashed changes
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
