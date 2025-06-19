@@ -1,7 +1,0 @@
-{
-  "FolderOrderSettings":[],
-  "ResourceOrderSettings":[
-    {"name":"Room1","order":1,"path":"rooms/Room1/Room1.yy",},
-    {"name":"Sprite1","order":2,"path":"sprites/Sprite1/Sprite1.yy",},
-  ],
-}
