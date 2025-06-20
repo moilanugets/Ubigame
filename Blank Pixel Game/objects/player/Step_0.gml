@@ -3,12 +3,13 @@ xsp = 0
 
 if keyboard_check(vk_left)
 {
-	xsp = -1
+        xsp = -1
+		sprite_index = knight_walk_right
 }
 
 if keyboard_check(vk_right)
 {
-	xsp = +1
+        xsp = +1
 }
 
 if place_meeting(x, y+1, oSolid)
@@ -19,3 +20,4 @@ if place_meeting(x, y+1, oSolid)
                 ysp = -2        
         }
 }
+
